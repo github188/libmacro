@@ -1,0 +1,23 @@
+libmacro (1.0.3) xenial; urgency=medium
+
+  * bump to 1.0.3
+
+ -- gozfree <gozfree@163.com>  Sun, 25 Sep 2016 20:21:59 +0800
+
+libmacro (1.0.2) xenial; urgency=medium
+
+  * bump to 1.0.2
+
+ -- gozfree <gozfree@163.com>  Sun, 25 Sep 2016 19:48:50 +0800
+
+libmacro (1.0.1) xenial; urgency=medium
+
+  * bump to 1.0.1
+
+ -- gozfree <gozfree@163.com>  Sun, 25 Sep 2016 18:41:08 +0800
+
+libmacro (1.0.0) xenial; urgency=low
+  * Initial release
+
+ -- gozfree <gozfree@163.com>  Sun, 25 Sep 2016 18:22:21 +0800
+

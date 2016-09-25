@@ -1,0 +1,13 @@
+Source: libmacro
+Section: devel
+Priority: extra
+Maintainer: gozfree <gozfree@163.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 1.0.3
+Homepage: https://github.com/gozfree/libmacro.git
+
+Package: libmacro
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Macro library
+ A simple macro library, include linux kernel macro, for easy use.
